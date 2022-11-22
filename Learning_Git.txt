@@ -1,0 +1,13 @@
+1. Create file 
+    git add `+ / .`
+2. Commit
+    - Complete function/Method which contains a meaningful business value
+    - A unit test
+    - Command git commit -m 
+3. Push to 
+    - Frequency everyday or a particular feature
+    - Based on Branch
+    - Based on Git Flow
+ 4. git status
+    
+    
