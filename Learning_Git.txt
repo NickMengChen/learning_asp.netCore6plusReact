@@ -1,13 +1,16 @@
-1. Create file 
+1. Create file / Any change
     git add `+ / .`
+    add to local repo
 2. Commit
     - Complete function/Method which contains a meaningful business value
     - A unit test
     - Command git commit -m 
-3. Push to 
+3. Push to remote repo 
     - Frequency everyday or a particular feature
     - Based on Branch
     - Based on Git Flow
  4. git status
-    
+ 
+ 5. add a new ssh key to connect git
+ 
     
