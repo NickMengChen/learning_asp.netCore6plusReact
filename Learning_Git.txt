@@ -13,4 +13,10 @@
  
  5. add a new ssh key to connect git
  
-    
+ 6. Merge and resolve confilcts 
+    - merge
+    - rebase
+     
+ 7. cheery peek 
+ 
+ 8. create a new branch and try 'Pull/Request'
