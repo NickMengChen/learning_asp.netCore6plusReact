@@ -1,0 +1,7 @@
+Course 1 learning: 
+
+Install the enviornment :
+1. NVM
+2. Node js
+3. Postman
+4. Jetbrains rider
